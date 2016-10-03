@@ -1,7 +1,8 @@
 # yun_deploy
 服务器部署记录
 
-- 安装git
+## 安装git
+
 url：https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 ```
@@ -32,3 +33,6 @@ make configure
 make
 make install
 ```
+## 安装node
+
+url:http://www.jianshu.com/p/c958bd3c7d77/comments/2946334
